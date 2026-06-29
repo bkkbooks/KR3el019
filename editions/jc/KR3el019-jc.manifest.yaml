@@ -1,0 +1,254 @@
+canonical_identifier: bkk:krp/KR3el019/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3el019/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 中國接骨圖說
+  identifiers:
+    krp: KR3el019
+  tags:
+    kr-categories: KR3el
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3el019.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3el019_000-jc.yaml, hash: 'sha256:6b8542504cda65c124ff0d506562e8ac98bb812cf1d79da59e8e7aa0ae3621c1'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3el019_000-jc.markers.yaml, hash: 'sha256:6e03ce5007fc49b170f88ce36be99b78e8190efb0cad812dabaa3bd036d96596'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3el019_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 683
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el019_jc_000-d3.h1s1
+    span:
+    - front
+    - 683
+    - 880
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el019_jc_000-d4.h1s1
+    span:
+    - front
+    - 880
+    - 1342
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el019_jc_000-d5.h1s1
+    span:
+    - body
+    - 0
+    - 401
+  label: 接骨總論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el019_jc_000-d6.h1s1
+    span:
+    - body
+    - 401
+    - 11200
+  label: 檢骨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el019_jc_000-d6d100
+    span:
+    - body
+    - 5276
+    - 6635
+  label: 脈證治法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el019_jc_000-d6d101
+    span:
+    - body
+    - 6635
+    - 6710
+  label: 十不治證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el019_jc_000-d6d102
+    span:
+    - body
+    - 6710
+    - 6827
+  label: 敷藥法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el019_jc_000-d6d103
+    span:
+    - body
+    - 6827
+    - 6916
+  label: 藥熨法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el019_jc_000-d6d104
+    span:
+    - body
+    - 6916
+    - 6965
+  label: 熨斗烙法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el019_jc_000-d6d105
+    span:
+    - body
+    - 6965
+    - 7053
+  label: 鏝熨法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el019_jc_000-d6d106
+    span:
+    - body
+    - 7053
+    - 7130
+  label: 振梃法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el019_jc_000-d6d107
+    span:
+    - body
+    - 7130
+    - 7220
+  label: 腰柱法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el019_jc_000-d6d108
+    span:
+    - body
+    - 7220
+    - 7384
+  label: 杉籬法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el019_jc_000-d6d109
+    span:
+    - body
+    - 7384
+    - 11200
+  label: 正骨圖解
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el019_jc_000-d7.h1s1
+    span:
+    - body
+    - 11200
+    - 14607
+  label: 接骨經驗方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el019_jc_000-d7d2
+    span:
+    - body
+    - 11205
+    - 11395
+  label: 麻藥部
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el019_jc_000-d7d3
+    span:
+    - body
+    - 11395
+    - 11846
+  label: 熨藥部
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el019_jc_000-d7d4
+    span:
+    - body
+    - 11846
+    - 11956
+  label: 膏藥部
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el019_jc_000-d7d5
+    span:
+    - body
+    - 11956
+    - 12703
+  label: 敷藥部
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el019_jc_000-d7d6
+    span:
+    - body
+    - 12703
+    - 12841
+  label: 洗藥部
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el019_jc_000-d7d7
+    span:
+    - body
+    - 12841
+    - 13808
+  label: 丸散部
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el019_jc_000-d7d8
+    span:
+    - body
+    - 13808
+    - 14607
+  label: 湯藥部
+  type: section
+  level: 2
+hash: sha256:3ca29c211f15911a86cdf289d59e26324c6b7f501f006e489f6833ddd4ab25ba
