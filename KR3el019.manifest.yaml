@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3el019_000.yaml, hash: 'sha256:87169feea132766e240eb46594c08d86b9a06837f8d40b2c6f2e61a45d85592b'}
+  - {seq: 0, filename: KR3el019_000.yaml, hash: 'sha256:6b8542504cda65c124ff0d506562e8ac98bb812cf1d79da59e8e7aa0ae3621c1'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3el019_000.markers.yaml, hash: 'sha256:a105c5703bff7056d62af781c8f53641c4aa31473aa9dd78f85862633cd88268'}
+  - {seq: 0, role: markers, filename: assets/KR3el019_000.markers.yaml, hash: 'sha256:3827b860149d0574ce0d799b6baff543fb32f8120bacd290b16fb28c5269aaff'}
 table_of_contents:
 - ref:
     seq: 0
@@ -251,7 +251,4 @@ table_of_contents:
   label: 湯藥部
   type: section
   level: 2
-hash: sha256:feca78631d3449ef04ab8977ed2dac0752b92aad9c294a1f29f294417f02a0e6
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:f43b86ae6ed7e93d124c01957c16aebab93d3181d8e46b8b95daff2079ec8737
