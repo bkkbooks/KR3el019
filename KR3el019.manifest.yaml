@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3el019/v1
 canonical_location: https://kanripo.org/bkk/KR3el019/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 中國接骨圖說
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3el019_000.yaml, hash: 'sha256:6b8542504cda65c124ff0d506562e8ac98bb812cf1d79da59e8e7aa0ae3621c1'}
+  - {seq: 0, filename: KR3el019_000.yaml, hash: 'sha256:83bb538c52f156bed3e8dc02019fbaf3978bc453c863c771c9bbd26ea1dec013'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3el019_000.markers.yaml, hash: 'sha256:3827b860149d0574ce0d799b6baff543fb32f8120bacd290b16fb28c5269aaff'}
+  - {seq: 0, role: markers, filename: assets/KR3el019_000.markers.yaml, hash: 'sha256:916ade783d42d9952a0bfaa8eefc277532a506dc46ff46496a1575fbc027417e'}
 table_of_contents:
 - ref:
     seq: 0
@@ -251,4 +251,7 @@ table_of_contents:
   label: 湯藥部
   type: section
   level: 2
-hash: sha256:f43b86ae6ed7e93d124c01957c16aebab93d3181d8e46b8b95daff2079ec8737
+hash: sha256:b755f309764e71b80c98a834e48eae383e3ed4115b7c77637ae83f08474fad56
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
