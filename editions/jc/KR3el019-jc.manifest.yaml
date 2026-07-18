@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3el019_000-jc.yaml, hash: 'sha256:6b8542504cda65c124ff0d506562e8ac98bb812cf1d79da59e8e7aa0ae3621c1'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3el019_000-jc.markers.yaml, hash: 'sha256:6e03ce5007fc49b170f88ce36be99b78e8190efb0cad812dabaa3bd036d96596'}
+  - {seq: 0, role: markers, filename: assets/KR3el019_000-jc.markers.yaml, hash: 'sha256:4f12ba9e99df99415cdfbec366d788ffc23a6bae1bc45a8445190c6cd6d8c69b'}
 table_of_contents:
 - ref:
     seq: 0
@@ -251,4 +251,4 @@ table_of_contents:
   label: 湯藥部
   type: section
   level: 2
-hash: sha256:3ca29c211f15911a86cdf289d59e26324c6b7f501f006e489f6833ddd4ab25ba
+hash: sha256:120ca57d2773d42b81ee6a82b6044af22cf06270d2807cd4744542e46ecf1a8d

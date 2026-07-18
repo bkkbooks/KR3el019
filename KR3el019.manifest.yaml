@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3el019_000.yaml, hash: 'sha256:83bb538c52f156bed3e8dc02019fbaf3978bc453c863c771c9bbd26ea1dec013'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3el019_000.markers.yaml, hash: 'sha256:916ade783d42d9952a0bfaa8eefc277532a506dc46ff46496a1575fbc027417e'}
+  - {seq: 0, role: markers, filename: assets/KR3el019_000.markers.yaml, hash: 'sha256:9fd57cbf3cc172e22e07a43fac77eb9ec019dfba53aa09816cecf76b4f5e2334'}
 table_of_contents:
 - ref:
     seq: 0
@@ -251,7 +251,7 @@ table_of_contents:
   label: 湯藥部
   type: section
   level: 2
-hash: sha256:b755f309764e71b80c98a834e48eae383e3ed4115b7c77637ae83f08474fad56
+hash: sha256:a47025849d1e119580a4a25541874faaf69b71305cae17fb8cb47bfd3cef421f
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
